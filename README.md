@@ -1,2 +1,3 @@
-# streamlink-client
+# Streamlink Client
+
 Streamlink Client
